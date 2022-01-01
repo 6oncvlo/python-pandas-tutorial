@@ -59,3 +59,4 @@ print(j.head())
 print(ex6["Gender"].value_counts())
 print(len(j.groupby(["Name"]).sum()))
 print((j.groupby(["Name"]).sum()))
+a=2
